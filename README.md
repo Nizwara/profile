@@ -15,7 +15,7 @@
 
   <br>
 
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak Custom Stats -->
   <div style="display: flex; justify-content: center; gap: 40px; margin: 20px 0; font-family: 'Fira Code', monospace;">
     <div style="text-align: center;">
       <span style="font-size: 2rem; color: #00FF88;">514</span><br>
